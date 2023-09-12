@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍I  aspiring front-end developer passionate about creating engaging user experiences. <br>👨‍🎓In the year 2023, I completed my post-graduate studies in MCA. <br>🧑‍💼Completed 3 months internship Program in Talentplace.Ai as a front-end Developer.<br> 😁Happy Coding
+😍 I  aspiring front-end developer passionate about creating engaging user experiences. <br>👨‍🎓 In the year 2023, I completed my post-graduate studies in MCA. <br> 🧑‍💼Completed 3 months internship Program in Talentplace.Ai as a front-end Developer.<br> 😊 Happy Coding
 
 
 ## 🌐 Socials:
