@@ -26,5 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ViNu-23&icon=4&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=ViNu-23&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
