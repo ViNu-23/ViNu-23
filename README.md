@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍 I'm an aspiring front-end developer passionate about creating engaging user experiences. <br>👨‍🎓 In 2023, I completed my post-graduate studies in Computer Applications. <br> 🧑‍💼 Completed 3 months internship Program in Talentplace.Ai as a front-end Developer.<br> 😊 Looking for new opportunities.
+😍 I'm an aspiring front-end developer passionate about creating engaging user experiences. <br>👨‍🎓 In 2023, I completed my post-graduate studies in Computer Applications. <br> 🧑‍💼 Completed 6 months internship Program and Real time Working Experience in Talentplace.Ai as a front-end Developer.<br> 😊 Looking for new opportunities.
 
 
 ## 🌐 Socials:
