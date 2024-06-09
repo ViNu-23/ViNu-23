@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍 I'm an aspiring front-end developer passionate about creating engaging user experiences. <br>👨‍🎓 In 2023, I completed my post-graduate studies in Computer Applications. <br> 🧑‍💼 Completed 6 months internship Program and Real-time Working Experience in Talentplace.Ai as a front-end Developer.<br> 😊 Looking for new opportunities and open to work as a freelancer.
+😍 I'm an aspiring MERN Developer passionate about creating engaging user experiences. <br>👨‍🎓 In 2023, I completed my post-graduate studies in Computer Applications. <br> 🧑‍💼 Completed 6 months internship Program and Real-time Working Experience in Talentplace.Ai and GroFLex as a front-end Developer.<br> 😊 Looking for new opportunities and open to work as a freelancer.
 
 
 ## 🌐 Socials:
@@ -7,21 +7,14 @@
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
+   
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViNu-23&theme=ayu-mirage&hide_border=true)
 
